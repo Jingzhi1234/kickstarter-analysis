@@ -46,7 +46,7 @@ percentage of successful.
 
 ### Challenges and Difficulties Encountered
 
-![tabel1](kickstarter-analysis/resources/table1.png)
+![tabel1](table1.png)
 
 Challenges: I have encountered a problem of inserting the line chart of
 percentage successful, percentage failed, percentage canceled into a line chart.
