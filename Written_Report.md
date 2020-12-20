@@ -12,9 +12,9 @@ whether there are specific factors will make the campaign successful.
 
 ## Analysis and Challenges
 
-![p1](p1.png)
-![p2](p2.png)
-![p3](p3.png)
+![p1](resources/p1.png)
+![p2](resources/p2.png)
+![p3](resources/p3.png)
 
 Analysis: Since the data for determining whether there are specific factors
 will make the campaign successful are too large. I are first trying to bread
@@ -46,7 +46,7 @@ percentage of successful.
 
 ### Challenges and Difficulties Encountered
 
-![tabel1](table1.png)
+![tabel1](resources/table1.png)
 
 Challenges: I have encountered a problem of inserting the line chart of
 percentage successful, percentage failed, percentage canceled into a line chart.
